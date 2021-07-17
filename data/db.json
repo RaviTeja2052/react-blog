@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "title 1",
+      "body": "lorem10",
+      "author": "title 1 author"
+    },
+    {
+      "id": 2,
+      "title": "title 2",
+      "body": "lorem20",
+      "author": "title 2 author"
+    },
+    {
+      "id": 3,
+      "title": "title 3",
+      "body": "lorem30",
+      "author": "title 3 author"
+    },
+    {
+      "id": 4,
+      "title": "title 4",
+      "body": "lorem40",
+      "author": "title 4 author"
+    },
+    {
+      "id": 6,
+      "title": "title 6",
+      "body": "lorem60",
+      "author": "title 6 author"
+    },
+    {
+      "id": 7,
+      "title": "title 7",
+      "body": "lorem70",
+      "author": "title 7 author"
+    },
+    {
+      "id": 8,
+      "title": "title 8",
+      "body": "lorem80",
+      "author": "title 8 author"
+    },
+    {
+      "id": 9,
+      "title": "title 9",
+      "body": "lorem90",
+      "author": "title 9 author"
+    }
+  ]
+}
